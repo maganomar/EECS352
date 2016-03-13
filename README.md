@@ -1,4 +1,4 @@
-# EECS_352
+# EECS 352
 Project class of machine extractions of musical structures in audio
 
 Winter 2016
